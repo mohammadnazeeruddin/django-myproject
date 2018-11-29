@@ -1,0 +1,2 @@
+# django-myproject
+my project
